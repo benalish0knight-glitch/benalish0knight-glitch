@@ -42,10 +42,7 @@
 
 ### 📊 إحصائيات GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="إحصائيات GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=dark" alt="اللغات الأكثر استخداماً">
-</div>
+
 
 <br>
 
