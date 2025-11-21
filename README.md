@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://imgproxy-434926184960.us-central1.run.app/S0l1YXVHUnVGQ0tYakZBbWwvbXgyZVBUNEdoZzJhOURlSW5SMnlwWGtvZz0/width:600/height:530/gravity:no/enlarge:1/format:webp/quality:80/aHR0cHM6Ly9hc3NldHMuZWNob210Zy5jb20vbWFnaWMvY2FyZHMvY3JvcHBlZC8zMzkzLmhxLmpwZw" alt="Ivan José Indio" width="150" style="border-radius: 50%;">
-  <h1>🛡️ Benalish Knight</h1>
-  <h2>مهندس البرمجيات الغامض</h2>
+  <img src="https://imgproxy-434926184960.us-central1.run.app/S0l1YXVHUnVGQ0tYakZBbWwvbXgyZVBUNEdoZzJhOURlSW5SMnlwWGtvZz0/width:600/height:530/gravity:no/enlarge:1/format:webp/quality:80/aHR0cHM6Ly9hc3NldHMuZWNob210Zy5jb20vbWFnaWMvY2FyZHMvY3JvcHBlZC8zMzkzLmhxLmpwZw" alt="Ivan José Indio - O Enigmático Engenheiro" width="150" style="border-radius: 50%;">
+  <h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1b2k3eXN1c3R5M211Y2E4Y2F5d3VzMW1jajZ0Z2FqZ245Y3N4ZCZlcD12MV9pbnRlcm5hbF9naWZfYXRzJmN0PWc/3ohs7KVi02Lw9Bw3gA/giphy.gif" width="30">
+    IVAN JOSÉ INDIO
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1b2k3eXN1c3R5M211Y2E4Y2F5d3VzMW1jajZ0Z2FqZ245Y3N4ZCZlcD12MV9pbnRlcm5hbF9naWZfYXRzJmN0PWc/3ohs7KVi02Lw9Bw3gA/giphy.gif" width="30">
+  </h1>
+  <h2>O Enigmático Engenheiro de Software</h2>
+  <p><strong>Vigilante da Codificação em Missão Constante.</strong></p>
   <p>
     <a href="URL_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="URL_DO_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
